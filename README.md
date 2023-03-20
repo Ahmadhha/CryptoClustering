@@ -37,6 +37,4 @@ However, this comparison is not sufficient to draw a conclusion, since we are on
 
 ![comp_clusters](https://github.com/Ahmadhha/CryptoClustering/blob/main/Output_plots/comp_clusters.png)
 
-View Data: [csv source](https://github.com/Ahmadhha/CryptoClustering/blob/main/Resources/crypto_market_data.csv)
-View code: [jupyter notebook](https://github.com/Ahmadhha/CryptoClustering/blob/main/Crypto_Clustering.ipynb)
 
